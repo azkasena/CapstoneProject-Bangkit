@@ -17,7 +17,7 @@ Healthy Teeth is a Prediction Application useful in informing users about the co
 |    Branch Name     |                                      Branch Link                                         |
 | :----------------: | :--------------------------------------------------------------------------------------: |
 | Machine Learning | [ML Branch]() |
-|  Cloud Computing   | [CC Branch](https://github.com/azkasena/CapstoneProject-Bangkit)      |
+|  Cloud Computing   | [CC Branch](https://github.com/azkasena/CapstoneProject-Bangkit/blob/main/api.py)      |
 |  Mobile Development | [MD Branch]()       
 
 #Repisotry Postman
