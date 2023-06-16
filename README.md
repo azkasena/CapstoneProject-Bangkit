@@ -23,7 +23,7 @@ Healthy Teeth is a Prediction Application useful in informing users about the co
 ## Repisotry Postman
 https://github.com/MarianaFirmanRitiMbu/Tugas1/tree/main/Capstone2023
 
-##Link DEPLOYED CC
+## Link DEPLOYED CC
 
 1.https://heeltyteeth-4vz5wjadpa-uc.a.run.app/predict
 
