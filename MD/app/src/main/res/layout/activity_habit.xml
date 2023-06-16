@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".habit.HabitActivity">
+
+    <TextView
+        android:id="@+id/habit_header"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="@string/habit_title"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:textColor="@color/blue_700"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/habit_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/teethbrush"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/habit_header" />
+
+    <Button
+        android:id="@+id/habit_yes"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="@string/habit_yes"
+        android:layout_marginTop="50dp"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/habit_image" />
+
+    <Button
+        android:id="@+id/habit_no"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/habit_no"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textColor="@color/blue_700"
+        android:backgroundTint="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/habit_yes" />
+</androidx.constraintlayout.widget.ConstraintLayout>

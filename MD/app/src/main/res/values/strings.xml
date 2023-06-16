@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Healthy Teeth</string>
+    <string name="message_welcome_page">Take care of your dental health in one app.</string>
+    <string name="login">Login</string>
+    <string name="next_welcome_page">Next</string>
+    <string name="title_register_page">Create Account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="title_login_page">Login</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="logout">Log Out</string>
+    <string name="greeting">Welcome, %1$s!</string>
+    <string name="scan_menu">Scan</string>
+    <string name="disease_menu">Disease</string>
+    <string name="habit_menu">Habit</string>
+    <string name="insight_menu">Insight</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Result</string>
+    <string name="insight_video_title">How to Brush Your Teeth</string>
+    <string name="diagnosis">Diagnosis</string>
+    <string name="habit_title">Have you brushed your teeth today?</string>
+    <string name="habit_yes">Of Course!</string>
+    <string name="habit_no">Not Yet</string>
+    <string name="insight_title">How to Brush your Teeth Properly</string>
+    <string name="disease_title">Disease</string>
+    <string name="disease_cavities_title">Cavities/Tooth decay</string>
+    <string name="disease_cavities_description">Cavities are permanently damaged areas in the hard surface of your teeth that develop into tiny openings or holes. Cavities, also called tooth decay or caries, are caused by a combination of factors, including bacteria in your mouth, frequent snacking, sipping sugary drinks and not cleaning your teeth well.Cavities and tooth decay are among the world\'s most common health problems. They\'re especially common in children, teenagers and older adults. But anyone who has teeth can get cavities, including infants.If cavities aren\'t treated, they get larger and affect deeper layers of your teeth. They can lead to a severe toothache, infection and tooth loss. Regular dental visits and good brushing and flossing habits are your best protection against cavities and tooth decay.</string>
+    <string name="disease_gingivitis_title">Gingivitis</string>
+    <string name="disease_gingivitis_description">Gingivitis is a common and mild form of gum disease (periodontal disease) that causes irritation, redness and swelling (inflammation) of your gingiva, the part of your gum around the base of your teeth. It\'s important to take gingivitis seriously and treat it promptly. Gingivitis can lead to much more serious gum disease called periodontitis and tooth loss. The most common cause of gingivitis is poor oral hygiene. Good oral health habits, such as brushing at least twice a day, flossing daily and getting regular dental checkups, can help prevent and reverse gingivitis.</string>
+    <string name="disease_tooth_discoloration_title">Tooth Discoloration</string>
+    <string name="disease_tooth_discoloration_description">Tooth discoloration refers to the staining or darkening of your teeth. You can develop discolored teeth for a number of reasons. Some causes are unavoidable — like aging, trauma or disease. Other causes are preventable — like smoking and poor oral hygiene. There are two main types of tooth discoloration: Extrinsic discoloration: This type of discoloration affects the outer surface of your teeth (enamel). Exposure to certain environmental factors — like some foods and beverages — causes extrinsically discolored teeth. Intrinsic discoloration: This type of discoloration starts inside your tooth and affects your dentin (the layer underneath your enamel). Causes include dental trauma and certain medications.</string>
+    <string name="disease_tooth_periodontitis_title">Periodontitis</string>
+    <string name="disease_tooth_periodontitis_description">Periodontitis (per-e-o-don-TIE-tis), also called gum disease, is a serious gum infection that damages the soft tissue around teeth. Without treatment, periodontitis can destroy the bone that supports your teeth. This can cause teeth to loosen or lead to tooth loss. Periodontitis is common but can usually be prevented. It\'s often the result of not taking care of your mouth and teeth. To help prevent periodontitis or improve your chance of successful treatment, brush at least twice a day, floss daily and get regular dental checkups.</string>
+
+</resources>
