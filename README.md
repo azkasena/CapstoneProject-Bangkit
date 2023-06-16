@@ -20,7 +20,7 @@ Healthy Teeth is a Prediction Application useful in informing users about the co
 |  Cloud Computing   | [CC Branch](https://github.com/azkasena/CapstoneProject-Bangkit/blob/main/api.py)      |
 |  Mobile Development | [MD Branch]()       
 
-##Repisotry Postman
+## Repisotry Postman
 https://github.com/MarianaFirmanRitiMbu/Tugas1/tree/main/Capstone2023
 
 ##Link DEPLOYED CC
